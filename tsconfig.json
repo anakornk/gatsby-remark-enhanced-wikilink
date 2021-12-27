@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2017",
+    "jsx": "react",
+    "lib": ["dom", "es2015", "es2017"],
+    "strict": true,
+    "esModuleInterop": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "rootDir": "src",
+    "outDir": "./"
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules/**"]
+}
