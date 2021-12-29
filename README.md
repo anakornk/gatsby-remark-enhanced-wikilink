@@ -34,7 +34,7 @@ plugins: [
                     options: {
                       stripBrackets: true,
                       imageExtensions: ['png', 'jpg', 'jpeg'],
-                      fileFileExtensions: ['png', 'jpg', 'jpeg', 'pdf']
+                      linkFileExtensions: ['png', 'jpg', 'jpeg', 'pdf']
                       // see other options below
                     },
                 },
