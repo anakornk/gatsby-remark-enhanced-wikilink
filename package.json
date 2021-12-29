@@ -1,7 +1,7 @@
 {
   "name": "gatsby-remark-enhanced-wikilink",
-  "version": "1.0.0",
-  "description": "A Gatsby Remark plugin that adds support to Enhanced Wikilink Syntax",
+  "version": "1.0.1",
+  "description": "A Gatsby Remark plugin to support Enhanced Wikilink Syntax (e.g., Obsidian Internal Links) for Gatsby 4",
   "main": "index.js",
   "types": "index.d.ts",
   "author": "Anakorn Kyavatanakij <anakornk@gmail.com>",
