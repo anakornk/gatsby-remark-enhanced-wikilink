@@ -1,6 +1,6 @@
 # Gatsby Remark Enhanced Wikilink
 
-A Gatsby Remark plugin that adds support to Enhanced Wikilink Syntax (e.g., Obsidian Internal Links) for Gatsby ^4.0.0
+A Gatsby Remark plugin to support Enhanced Wikilink Syntax (e.g., Obsidian Internal Links) for Gatsby ^4.0.0
 
 - To support file linking and image embedding, use with `gatsby-remark-images`, `gatsby-remark-copy-linked-files` and `gatsby-source-filesystem`
 - To be compatible with `gatsby-remark-autolink-headers`, the default implementation uses [Github Slugger](https://github.com/Flet/github-slugger) to slugify filenames and headings. This can be configured via setting a new `wikilinkToUrl` function. For more information, please see `Options` section below.
