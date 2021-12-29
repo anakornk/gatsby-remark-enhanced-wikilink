@@ -9,7 +9,8 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "rootDir": "src",
-    "outDir": "./"
+    "outDir": "./",
+    "declaration": true
   },
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules/**"]
